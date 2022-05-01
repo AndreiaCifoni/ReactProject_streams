@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "abc",
+      "description": "asfsdgdhg",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "this is my stream",
+      "id": 2
+    },
+    {
+      "title": "Other stream",
+      "description": "abcde",
+      "id": 3
+    },
+    {
+      "title": "Other stream",
+      "description": "abcde",
+      "id": 4
+    },
+    {
+      "title": "aaaaa",
+      "description": "afdsgfg",
+      "id": 5
+    }
+  ]
+}

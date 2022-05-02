@@ -1,35 +1,16 @@
 {
   "streams": [
     {
-      "title": "abc",
-      "description": "asfsdgdhg",
+      "title": "My stream test",
+      "description": "asdiadhaisd askdbaskfba asbaiusfba",
+      "userId": "117323514047232619676",
       "id": 1
     },
     {
-      "title": "my stream",
-      "description": "this is my stream",
-      "id": 2
-    },
-    {
       "title": "Other stream",
-      "description": "abcde",
-      "id": 3
-    },
-    {
-      "title": "Other stream",
-      "description": "abcde",
-      "id": 4
-    },
-    {
-      "title": "aaaaa",
-      "description": "afdsgfg",
-      "id": 5
-    },
-    {
-      "title": "I created this stream",
-      "description": "this was made by me",
+      "description": "blaaaa bla bla blablalba",
       "userId": "117323514047232619676",
-      "id": 6
+      "id": 2
     }
   ]
 }

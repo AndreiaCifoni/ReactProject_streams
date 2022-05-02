@@ -24,6 +24,12 @@
       "title": "aaaaa",
       "description": "afdsgfg",
       "id": 5
+    },
+    {
+      "title": "I created this stream",
+      "description": "this was made by me",
+      "userId": "117323514047232619676",
+      "id": 6
     }
   ]
 }

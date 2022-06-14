@@ -15,23 +15,18 @@ The main code language, libraries and frameworks used in this project:
 
 
 ## Getting Started
-###Instalation 
-After the download of this project, open it with the VSCode or other code editor of your preference.
+### Installation 
 
-In the terminal of your code editor, enter in the folder "client" and install the npm package for the proper instalation of dependencies and versions needed. Use the following commands:
+Clone this repository in your VSCode and open two tabs of the terminal. In the first tab, enter in the folder "client", install the npm package to obtain the dependencies and versions needed, and start the project. Use the following commands:
 
-npm install
+$ cd client
+$ npm install
+$ npm start
 
+In the second tab of terminal, enter in the folder "api" and run. This folder will ac as our data base and will save all the "Streams" added in the project:
 
-After that, run the code:
-
-npm start
-
-You will also need to run the api code in a separate terminal by running:
-
-cd api
-npm start
-
+$ cd api
+$ npm start
 
 ## Usage
 

@@ -30,6 +30,11 @@ $ npm start
 
 ## Usage
 
+This project contains GoogleAuth, that allows the user to make the login with their google account. 
+
+Only after the login the user will be able to create, edit and delete a stream post. Before login, the user will only have the list of streams posted for other clients.
+
+By clicking in a stream, the client is navigated to a new page with more details and the stream video.
 
 ## Contact
 Andreia Cifoni - andreiacifoni@gmail.com
